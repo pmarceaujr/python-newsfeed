@@ -1,3 +1,6 @@
+#Dev Folder with seed files
+devfiles/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -50,6 +53,11 @@ coverage.xml
 *.py,cover
 .hypothesis/
 .pytest_cache/
+
+
+*.pyc
+__pycache__/
+
 
 # Translations
 *.mo
